@@ -91,7 +91,7 @@ mobile-sales-data-analysis/
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/aniketbhadait019-cmd/mobile-sales-data-analysis
 cd mobile-sales-data-analysis
 ```
 
@@ -137,7 +137,7 @@ This project demonstrates practical skills in **data cleaning, exploratory data 
 
 ## 👨‍💻 Author
 
-**Abhishek Saste**
+**Aniket Bhadait**
 
 B.Sc. Computer Science | Data Analysis | Python | DevOps
 
